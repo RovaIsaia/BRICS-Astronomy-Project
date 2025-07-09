@@ -23,6 +23,7 @@ This program was designed to strengthen technical and scientific skills, while p
 
 ## Links for Brics Program :
 **Repo Github** : https://github.com/Danselem/brics_astro
+
 **All Lives**   : https://www.youtube.com/@BRICSAstronomy
 
 ## My Project:
