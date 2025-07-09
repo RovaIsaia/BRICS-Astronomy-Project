@@ -21,6 +21,10 @@ Over eight intensive weeks, participants worked on research projects focused on:
 
 This program was designed to strengthen technical and scientific skills, while promoting intercultural and interuniversity collaboration.
 
+## Links for Brics Program :
+**Repo Github** : https://github.com/Danselem/brics_astro
+**All Lives**   : https://www.youtube.com/@BRICSAstronomy
+
 ## My Project:
 
 This project explored the relationship between **stellar mass (M*)** and dark matter **halo mass (Mh)** using data from the **SPARC** and **xGASS** catalogs, combining visualization, analytical modeling to know the Star Formation Rate, and machine learning techniques to predict Halo Mass.
