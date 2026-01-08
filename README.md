@@ -2,18 +2,18 @@
 The **BRICS Astronomy** project is an introductory research program in astrophysics, organized by universities from the BRICS network (**Brazil** , **Russia** , **India** , **China** , **South Africa** ), which brings together students and young researchers to explore current key questions in astronomy and observational astrophysics.
 
 ### Primary Mission:
-The **BRICS Astronomy Program** is designed to **develop and empower young students** passionate about astronomy, data analysis, and machine learning through an intensive 8-week curriculum. The program aims to:
+The **BRICS Astronomy Program** is designed to **develop and empower young students** passionate about astronomy, data analysis, and machine learning through an intensive 8-week. The program aims to:
 
-- **🌌 Build Foundation**: Provide comprehensive training in astronomical data analysis and machine learning applications
-- **🚀 Skill Development**: Equip participants with practical Python programming and data science skills specifically for astronomy
-- **🔬 Research Preparation**: Prepare students for independent research projects in astrophysics
-- **🌍 International Collaboration**: Foster cross-cultural scientific collaboration among BRICS nations (Brazil, Russia, India, China, South Africa)
+- ** Build Foundation**: Provide comprehensive training in astronomical data analysis and machine learning applications
+- ** Skill Development**: Equip participants with practical Python programming and data science skills specifically for astronomy
+- ** Research Preparation**: Prepare students for independent research projects in astrophysics
+- ** International Collaboration**: Scientific collaboration among BRICS nations (Brazil, Russia, India, China, South Africa)
 
 ### Program Structure & Validation:
-- **📅 8-Week Intensive Curriculum**: Progressive learning from basics to advanced applications
-- **🎓 Final Project**: Independent research project in the final week to demonstrate acquired skills
-- **📜 Certification**: Certificate awarded upon successful completion
-- **📊 Performance Assessment**: GPA-based evaluation system
+- ** 8-Week Intensive Curriculum**: Progressive learning from basics to advanced applications
+- ** Final Project**: Independent research project in the final week to demonstrate acquired skills
+- ** Certification**: Certificate awarded upon successful completion
+- ** Performance Assessment**: GPA-based evaluation system
 
 ### My Achievement:
 - **Final Project Score**: **89/100** GPA
@@ -58,7 +58,7 @@ This project explored the relationship between **stellar mass (M*)** and dark ma
 Upon completion, participants receive a certificate.
 
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### Option 1: Clone Repository (Recommended)
 
@@ -74,4 +74,5 @@ pip install -r requirements.txt
 
 # Run the main analysis pipeline
 python main_analysis.py
+
 
