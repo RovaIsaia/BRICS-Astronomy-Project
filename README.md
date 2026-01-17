@@ -4,23 +4,23 @@ The **BRICS Astronomy** project is an introductory research program in astrophys
 ### Primary Mission:
 The **BRICS Astronomy Program** is designed to **develop and empower young students** passionate about astronomy, data analysis, and machine learning through an intensive 8-week. The program aims to:
 
-- ** Build Foundation**: Provide comprehensive training in astronomical data analysis and machine learning applications
-- ** Skill Development**: Equip participants with practical Python programming and data science skills specifically for astronomy
-- ** Research Preparation**: Prepare students for independent research projects in astrophysics
-- ** International Collaboration**: Scientific collaboration among BRICS nations (Brazil, Russia, India, China, South Africa)
+- **Build Foundation**: Provide comprehensive training in astronomical data analysis and machine learning applications
+- **Skill Development**: Equip participants with practical Python programming and data science skills specifically for astronomy
+- **Research Preparation**: Prepare students for independent research projects in astrophysics
+- **International Collaboration**: Scientific collaboration among BRICS nations (Brazil, Russia, India, China, South Africa)
 
 ### Program Structure & Validation:
-- ** 8-Week Intensive Curriculum**: Progressive learning from basics to advanced applications
-- ** Final Project**: Independent research project in the final week to demonstrate acquired skills
-- ** Certification**: Certificate awarded upon successful completion
-- ** Performance Assessment**: GPA-based evaluation system
+- **8-Week Intensive**: Progressive learning from basics to advanced applications
+- **Final Project**: Independent research project in the final week to demonstrate acquired skills
+- **Certification**: Certificate awarded upon successful completion
+- **Performance Assessment**: GPA-based evaluation system
 
 ### My Achievement:
 - **Final Project Score**: **89/100** GPA
 - **Certification Status**: Successfully completed
 - **My Project Focus**: Stellar-to-Halo Mass Relation analysis and using machine learning to predict Halo mass
 
-Over eight intensive weeks, participants worked on research projects focused on:
+Over eight intensive weeks, participants worked on research projects focused on Introduction to Python to The Machine learning Techniques application in Astronomy:
 
 **Week 1** : Introduction to Python.
 
@@ -38,18 +38,18 @@ Over eight intensive weeks, participants worked on research projects focused on:
 
 **Week 8** : Project Preparation.
 
-This program was designed to strengthen technical and scientific skills, while promoting intercultural and interuniversity collaboration.
+This program was designed to strengthen technical and scientific skills about Data Analysis and Machine learning techniques.
 
 ## Links for Brics Program :
 **Repo Github** : https://github.com/Danselem/brics_astro
 
 **All Lives**   : https://www.youtube.com/@BRICSAstronomy
 
-## My Project:
+## My Project Description:
 
 This project explored the relationship between **stellar mass (M*)** and dark matter **halo mass (Mh)** using data from the **SPARC** and **xGASS** catalogs, combining visualization, analytical modeling to know the Star Formation Rate, and machine learning techniques to predict Halo Mass.
 
-## The data comes from two main catalogs :
+## The data comes from two main catalogs that I use for my project :
 - SPARC – WISE Stellar Masses: (https://astroweb.cwru.edu/SPARC/)
 - SPARC – HI Kinematics :(https://astroweb.cwru.edu/SPARC/)
 - xGASS - The extended GALEX Arecibo SDSS Survey : (https://xgass.icrar.org/data.html)
@@ -58,9 +58,7 @@ This project explored the relationship between **stellar mass (M*)** and dark ma
 Upon completion, participants receive a certificate.
 
 
-##  Quick Start Guide
-
-### Option 1: Clone Repository (Recommended)
+##  Quick Start Guide if you want to use or to check the code
 
 ```bash
 # Clone the repository
@@ -72,7 +70,7 @@ cd BRICS-Astronomy-Project
 # Install required dependencies
 pip install -r requirements.txt
 
-# Run the main analysis pipeline
-python main_analysis.py
+# Run each cell in the notebook
+BricsNotebook.ipynb
 
 
